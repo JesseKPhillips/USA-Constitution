@@ -38,3 +38,7 @@ Section 5. The Congress shall have power to enforce, by appropriate legislation,
 
 **Section 2.** The Congress shall have power to enforce this article by
 appropriate legislation.
+
+## Amendment XVI.
+
+The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
