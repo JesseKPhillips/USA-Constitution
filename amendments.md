@@ -58,3 +58,9 @@ This amendment shall not be so construed as to affect the election or term of an
 **Section 2.** The Congress and the several States shall have concurrent power to enforce this article by appropriate legislation.
 
 **Section 3.** This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
+
+## Amendment XIX.
+
+The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
+
+Congress shall have power to enforce this article by appropriate legislation.
