@@ -15,6 +15,8 @@ religion, or prohibiting the free exercise thereof; or abridging the freedom of
 speech, or of the press; or the right of the people peaceably to assemble, and
 to petition the government for a redress of grievances.
 
+No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may, by a vote of two-thirds of each House, remove such disability.
+
 **Section. 2.**  The House of Representatives shall be composed of Members
 chosen every second Year by the People of the several States, and the Electors
 in each State shall have the Qualifications requisite for Electors of the most
@@ -25,20 +27,26 @@ twenty five Years, and been seven Years a Citizen of the United States, and who
 shall not, when elected, be an Inhabitant of that State in which he shall be
 chosen.
 
-Representatives and direct Taxes shall be apportioned among the several States
-which may be included within this Union, according to their respective Numbers,
-which shall be determined by adding to the whole Number of free Persons,
-including those bound to Service for a Term of Years, and excluding Indians not
-taxed, three fifths of all other Persons.  The actual Enumeration shall be made
-within three Years after the first Meeting of the Congress of the United
-States, and within every subsequent Term of ten Years, in such Manner as they
-shall by Law direct. The Number of Representatives shall not exceed one for
-every thirty Thousand, but each State shall have at Least one Representative;
-and until such enumeration shall be made, the State of New Hampshire shall be
-entitled to chuse three, Massachusetts eight, Rhode-Island and Providence
-Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania
-eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South
-Carolina five, and Georgia three.
+Representatives shall be apportioned among the several States according to
+their respective numbers, counting the whole number of persons in each State,
+excluding Indians not taxed. But when the right to vote at any election for the
+choice of electors for President and Vice President of the United States,
+Representatives in Congress, the Executive and Judicial officers of a State, or
+the members of the Legislature thereof, is denied to any of the male
+inhabitants of such State, being twenty-one years of age, and citizens of the
+United States, or in any way abridged, except for participation in rebellion,
+or other crime, the basis of representation therein shall be reduced in the
+proportion which the number of such male citizens shall bear to the whole
+number of male citizens twenty-one years of age in such State. The actual
+Enumeration shall be made within three Years after the first Meeting of the
+Congress of the United States, and within every subsequent Term of ten Years,
+in such Manner as they shall by Law direct. The Number of Representatives shall
+not exceed one for every thirty Thousand, but each State shall have at Least
+one Representative; and until such enumeration shall be made, the State of New
+Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island
+and Providence Plantations one, Connecticut five, New-York six, New Jersey
+four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North
+Carolina five, South Carolina five, and Georgia three.
 
 When vacancies happen in the Representation from any State, the Executive
 Authority thereof shall issue Writs of Election to fill such Vacancies.
@@ -457,8 +465,13 @@ public Acts, Records, and judicial Proceedings of every other State. And the
 Congress may by general Laws prescribe the Manner in which such Acts, Records
 and Proceedings shall be proved, and the Effect thereof.
 
-**Section. 2.** The Citizens of each State shall be entitled to all Privileges
-and Immunities of Citizens in the several States.
+**Section. 2.** All persons born or naturalized in the United States, and
+subject to the jurisdiction thereof, are citizens of the United States and of
+the State wherein they reside. No State shall make or enforce any law which
+shall abridge the privileges or immunities of citizens of the United States;
+nor shall any State deprive any person of life, liberty, or property, without
+due process of law; nor deny to any person within its jurisdiction the equal
+protection of the laws.
 
 A Person charged in any State with Treason, Felony, or other Crime, who shall
 flee from Justice, and be found in another State, shall on Demand of the
@@ -488,6 +501,14 @@ any Claims of the United States, or of any particular State.
 a Republican Form of Government, and shall protect each of them against
 Invasion; and on Application of the Legislature, or of the Executive (when the
 Legislature cannot be convened) against domestic Violence.
+
+**Section. 5.** The validity of the public debt of the United States,
+authorized by law, including debts incurred for payment of pensions and
+bounties for services in suppressing insurrection or rebellion, shall not be
+questioned. But neither the United States nor any State shall assume or pay any
+debt or obligation incurred in aid of insurrection or rebellion against the
+United States, or any claim for the loss or emancipation of any slave; but all
+such debts, obligations and claims shall be held illegal and void.
 
 ## Article. V.
 
