@@ -100,3 +100,9 @@ Congress shall have power to enforce this article by appropriate legislation.
 A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
 
 **Section 2.** The Congress shall have power to enforce this article by appropriate legislation.
+
+## Amendment XXIV.
+
+**Section 1.** The right of citizens of the United States to vote in any primary or other election for President or Vice President, for electors for President or Vice President, or for Senator or Representative in Congress, shall not be denied or abridged by the United States or any State by reason of failure to pay any poll tax or other tax.
+
+**Section 2.** The Congress shall have power to enforce this article by appropriate legislation.
