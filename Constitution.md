@@ -140,7 +140,10 @@ No Senator or Representative shall, during the Time for which he was elected,
 be appointed to any civil Office under the Authority of the United States,
 which shall have been created, or the Emoluments whereof shall have been
 encreased during such time; and no Person holding any Office under the United
-States, shall be a Member of either House during his Continuance in Office.
+States, shall be a Member of either House during his Continuance in Office. No
+law, varying the compensation for the services of the Senators and
+Representatives, shall take effect, until an election of Representatives shall
+have intervened.
 
 
 **Section. 7.** All Bills for raising Revenue shall originate in the House of

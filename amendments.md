@@ -124,3 +124,7 @@ Thereafter, when the President transmits to the President pro tempore of the Sen
 **Section 1.** The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.
 
 **Section 2.** The Congress shall have the power to enforce this article by appropriate legislation.
+
+## Amendment XXVII.
+
+No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened.
