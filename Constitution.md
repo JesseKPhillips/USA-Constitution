@@ -465,10 +465,13 @@ flee from Justice, and be found in another State, shall on Demand of the
 executive Authority of the State from which he fled, be delivered up, to be
 removed to the State having Jurisdiction of the Crime.
 
-No Person held to Service or Labour in one State, under the Laws thereof,
-escaping into another, shall, in Consequence of any Law or Regulation therein,
-be discharged from such Service or Labour, but shall be delivered up on Claim
-of the Party to whom such Service or Labour may be due.
+Neither slavery nor involuntary servitude, except as a punishment for crime
+whereof the party shall have been duly convicted, shall exist within the United
+States, or any place subject to their jurisdiction. No Person held to Service
+or Labour in one State, under the Laws thereof, escaping into another, shall,
+in Consequence of any Law or Regulation therein, be discharged from such
+Service or Labour, but shall be delivered up on Claim of the Party to whom such
+Service or Labour may be due.
 
 **Section. 3.** New States may be admitted by the Congress into this Union; but
 no new State shall be formed or erected within the Jurisdiction of any other
