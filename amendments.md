@@ -31,3 +31,10 @@ Section 3. No person shall be a Senator or Representative in Congress, or electo
 Section 4. The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
 
 Section 5. The Congress shall have power to enforce, by appropriate legislation, the provisions of this article.
+
+## Amendment XV.
+
+**Section 1.** The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude.
+
+**Section 2.** The Congress shall have power to enforce this article by
+appropriate legislation.
