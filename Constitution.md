@@ -271,6 +271,12 @@ holding any Office of Profit or Trust under them, shall, without the Consent of
 the Congress, accept of any present, Emolument, Office, or Title, of any kind
 whatever, from any King, Prince, or foreign State.
 
+The right of citizens of the United States to vote in any primary or other
+election for President or Vice President, for electors for President or Vice
+President, or for Senator or Representative in Congress, shall not be denied or
+abridged by the United States or any State by reason of failure to pay any poll
+tax or other tax.
+
 **Section. 10.** No State shall enter into any Treaty, Alliance, or
 Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of
 Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts;
