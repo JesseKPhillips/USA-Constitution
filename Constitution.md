@@ -598,7 +598,6 @@ Twelfth In witness whereof We have hereunto subscribed our Names,
 
 ## Article. VIII.
 
-**Section 1.** The manufacture, sale, or transportation of intoxicating liquors
-within, the importation thereof into, or the exportation thereof from the
-United States and all the territory subject to the jurisdiction thereof for
-beverage purposes is hereby prohibited.
+**Section 1.** The transportation or importation into any State, Territory, or
+possession of the United States for delivery or use therein of intoxicating
+liquors, in violation of the laws thereof, is hereby prohibited.
