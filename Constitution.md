@@ -25,6 +25,10 @@ insurrection or rebellion against the same, or given aid or comfort to the
 enemies thereof. But Congress may, by a vote of two-thirds of each House,
 remove such disability.
 
+The terms of Senators and Representatives shall end at noon on the 3d day of
+January, of the years in which such terms end; and the terms of their
+successors shall then begin.
+
 **Section. 2.**  The House of Representatives shall be composed of Members
 chosen every second Year by the People of the several States, and the Electors
 in each State shall have the Qualifications requisite for Electors of the most
@@ -110,9 +114,9 @@ and Representatives, shall be prescribed in each State by the Legislature
 thereof; but the Congress may at any time by Law make or alter such
 Regulations, except as to the Places of chusing Senators.
 
-The Congress shall assemble at least once in every Year, and such Meeting shall
-be on the first Monday in December, unless they shall by Law appoint a
-different Day.
+The Congress shall assemble at least once in every year, and such meeting shall
+begin at noon on the 3d day of January, unless they shall by law appoint a
+different day.
 
 **Section. 5.** Each House shall be the Judge of the Elections, Returns and
 Qualifications of its own Members, and a Majority of each shall constitute a
@@ -428,8 +432,8 @@ invaded, or in such imminent Danger as will not admit of delay.
 
 **Section. 1.** The executive Power shall be vested in a President of the
 United States of America. He shall hold his Office during the Term of four
-Years, and, together with the Vice President, chosen for the same Term, be
-elected, as follows
+Years ending at noon on the 20th day of January, and, together with the Vice
+President, chosen for the same Term, be elected, as follows
 
 Each State shall appoint, in such Manner as the Legislature thereof may direct,
 a Number of Electors, equal to the whole Number of Senators and Representatives
@@ -455,18 +459,29 @@ as President, the House of Representatives shall choose immediately, by ballot,
 the President. But in choosing the President, the votes shall be taken by
 states, the representation from each state having one vote; a quorum for this
 purpose shall consist of a member or members from two-thirds of the states, and
-a majority of all the states shall be necessary to a choice. And if the House
-of Representatives shall not choose a President whenever the right of choice
-shall devolve upon them, before the fourth day of March next following, then
-the Vice-President shall act as President, as in the case of the death or other
-constitutional disability of the President.—The person having the greatest
-number of votes as Vice-President, shall be the Vice-President, if such number
-be a majority of the whole number of Electors appointed, and if no person have
-a majority, then from the two highest numbers on the list, the Senate shall
-choose the Vice-President; a quorum for the purpose shall consist of two-thirds
-of the whole number of Senators, and a majority of the whole number shall be
-necessary to a choice. But no person constitutionally ineligible to the office
-of President shall be eligible to that of Vice-President of the United States.
+a majority of all the states shall be necessary to a choice. [If, at the time
+fixed for the beginning of the term of the President, the President elect shall
+have died, the Vice President elect shall become President. If a President
+shall not have been chosen before the time fixed for the beginning of his term,
+or if the President elect shall have failed to qualify, then the Vice President
+elect shall act as President until a President shall have qualified; and the
+Congress may by law provide for the case wherein neither a President elect nor
+a Vice President elect shall have qualified, declaring who shall then act as
+President, or the manner in which one who is to act shall be selected, and such
+person shall act accordingly until a President or Vice President shall have
+qualified.The Congress may by law provide for the case of the death of any of
+the persons from whom the House of Representatives may choose a President
+whenever the right of choice shall have devolved upon them, and for the case of
+the death of any of the persons from whom the Senate may choose a Vice
+President whenever the right of choice shall have devolved upon them.]The
+person having the greatest number of votes as Vice-President, shall be the
+Vice-President, if such number be a majority of the whole number of Electors
+appointed, and if no person have a majority, then from the two highest numbers
+on the list, the Senate shall choose the Vice-President; a quorum for the
+purpose shall consist of two-thirds of the whole number of Senators, and a
+majority of the whole number shall be necessary to a choice. But no person
+constitutionally ineligible to the office of President shall be eligible to
+that of Vice-President of the United States.
 
 
 The Congress may determine the Time of chusing the Electors, and the Day on
