@@ -620,6 +620,10 @@ nor shall any State deprive any person of life, liberty, or property, without
 due process of law; nor deny to any person within its jurisdiction the equal
 protection of the laws.
 
+The right of citizens of the United States to vote shall not be denied or
+abridged by the United States or by any State on account of race, color, or
+previous condition of servitude.
+
 A Person charged in any State with Treason, Felony, or other Crime, who shall
 flee from Justice, and be found in another State, shall on Demand of the
 executive Authority of the State from which he fled, be delivered up, to be
