@@ -300,36 +300,36 @@ to which the State may be entitled in the Congress: but no Senator or
 Representative, or Person holding an Office of Trust or Profit under the United
 States, shall be appointed an Elector.
 
-The Electors shall meet in their respective states, and vote by ballot for
-President and Vice-President, one of whom, at least, shall not be an inhabitant
-of the same state with themselves; they shall name in their ballots the person
-voted for as President, and in distinct ballots the person voted for as
-Vice-President, and they shall make distinct lists of all persons voted for as
-President, and all persons voted for as Vice-President and of the number of
-votes for each, which lists they shall sign and certify, and transmit sealed to
-the seat of the government of the United States, directed to the President of
-the Senate;—The President of the Senate shall, in the presence of the Senate
-and House of Representatives, open all the certificates and the votes shall
-then be counted;—The person having the greatest Number of votes for President,
-shall be the President, if such number be a majority of the whole number of
-Electors appointed; and if no person have such majority, then from the persons
-having the highest numbers not exceeding three on the list of those voted for
-as President, the House of Representatives shall choose immediately, by ballot,
-the President. But in choosing the President, the votes shall be taken by
-states, the representation from each state having one vote; a quorum for this
-purpose shall consist of a member or members from two-thirds of the states, and
-a majority of all the states shall be necessary to a choice. [If, at the time
-fixed for the beginning of the term of the President, the President elect shall
-have died, the Vice President elect shall become President. If a President
-shall not have been chosen before the time fixed for the beginning of his term,
-or if the President elect shall have failed to qualify, then the Vice President
-elect shall act as President until a President shall have qualified; and the
-Congress may by law provide for the case wherein neither a President elect nor
-a Vice President elect shall have qualified, declaring who shall then act as
-President, or the manner in which one who is to act shall be selected, and such
-person shall act accordingly until a President or Vice President shall have
-qualified.The Congress may by law provide for the case of the death of any of
-the persons from whom the House of Representatives may choose a President
+**SubSection. 1.** The Electors shall meet in their respective states, and vote
+by ballot for President and Vice-President, one of whom, at least, shall not be
+an inhabitant of the same state with themselves; they shall name in their
+ballots the person voted for as President, and in distinct ballots the person
+voted for as Vice-President, and they shall make distinct lists of all persons
+voted for as President, and all persons voted for as Vice-President and of the
+number of votes for each, which lists they shall sign and certify, and transmit
+sealed to the seat of the government of the United States, directed to the
+President of the Senate;—The President of the Senate shall, in the presence of
+the Senate and House of Representatives, open all the certificates and the
+votes shall then be counted;—The person having the greatest Number of votes for
+President, shall be the President, if such number be a majority of the whole
+number of Electors appointed; and if no person have such majority, then from
+the persons having the highest numbers not exceeding three on the list of those
+voted for as President, the House of Representatives shall choose immediately,
+by ballot, the President. But in choosing the President, the votes shall be
+taken by states, the representation from each state having one vote; a quorum
+for this purpose shall consist of a member or members from two-thirds of the
+states, and a majority of all the states shall be necessary to a choice. [If,
+at the time fixed for the beginning of the term of the President, the President
+elect shall have died, the Vice President elect shall become President. If a
+President shall not have been chosen before the time fixed for the beginning of
+his term, or if the President elect shall have failed to qualify, then the Vice
+President elect shall act as President until a President shall have qualified;
+and the Congress may by law provide for the case wherein neither a President
+elect nor a Vice President elect shall have qualified, declaring who shall then
+act as President, or the manner in which one who is to act shall be selected,
+and such person shall act accordingly until a President or Vice President shall
+have qualified.The Congress may by law provide for the case of the death of any
+of the persons from whom the House of Representatives may choose a President
 whenever the right of choice shall have devolved upon them, and for the case of
 the death of any of the persons from whom the Senate may choose a Vice
 President whenever the right of choice shall have devolved upon them.]The
@@ -348,11 +348,11 @@ which they shall give their Votes; which Day shall be the same throughout the
 United States.
 
 
-No Person except a natural born Citizen, or a Citizen of the United States, at
-the time of the Adoption of this Constitution, shall be eligible to the Office
-of President; neither shall any Person be eligible to that Office who shall not
-have attained to the Age of thirty five Years, and been fourteen Years a
-Resident within the United States.
+**SubSection. 2** No Person except a natural born Citizen, or a Citizen of the
+United States, at the time of the Adoption of this Constitution, shall be
+eligible to the Office of President; neither shall any Person be eligible to
+that Office who shall not have attained to the Age of thirty five Years, and
+been fourteen Years a Resident within the United States.
 
 No person shall be elected to the office of the President more than twice, and
 no person who has held the office of President, or acted as President, for more
@@ -364,19 +364,49 @@ holding the office of President, or acting as President, during the term within
 which this article becomes operative from holding the office of President or
 acting as President during the remainder of such term.
 
-In Case of the Removal of the President from Office, or of his Death,
-Resignation, or Inability to discharge the Powers and Duties of the said
-Office, the Same shall devolve on the VicePresident, and the Congress may by
-Law provide for the Case of Removal, Death, Resignation or Inability, both of
-the President and Vice President, declaring what Officer shall then act as
-President, and such Officer shall act accordingly, until the Disability be
-removed, or a President shall be elected.
+**SubSection 3.** In case of the removal of the President from office or of his
+death or resignation, the Vice President shall become President.
+
+Whenever there is a vacancy in the office of the Vice President, the President
+shall nominate a Vice President who shall take office upon confirmation by a
+majority vote of both Houses of Congress.
+
+Whenever the President transmits to the President pro tempore of the Senate and
+the Speaker of the House of Representatives his written declaration that he is
+unable to discharge the powers and duties of his office, and until he transmits
+to them a written declaration to the contrary, such powers and duties shall be
+discharged by the Vice President as Acting President.
+
+Whenever the Vice President and a majority of either the principal officers of
+the executive departments or of such other body as Congress may by law provide,
+transmit to the President pro tempore of the Senate and the Speaker of the
+House of Representatives their written declaration that the President is unable
+to discharge the powers and duties of his office, the Vice President shall
+immediately assume the powers and duties of the office as Acting President.
+
+Thereafter, when the President transmits to the President pro tempore of the
+Senate and the Speaker of the House of Representatives his written declaration
+that no inability exists, he shall resume the powers and duties of his office
+unless the Vice President and a majority of either the principal officers of
+the executive department or of such other body as Congress may by law provide,
+transmit within four days to the President pro tempore of the Senate and the
+Speaker of the House of Representatives their written declaration that the
+President is unable to discharge the powers and duties of his office. Thereupon
+Congress shall decide the issue, assembling within forty-eight hours for that
+purpose if not in session. If the Congress, within twenty-one days after
+receipt of the latter written declaration, or, if Congress is not in session,
+within twenty-one days after Congress is required to assemble, determines by
+two-thirds vote of both Houses that the President is unable to discharge the
+powers and duties of his office, the Vice President shall continue to discharge
+the same as Acting President; otherwise, the President shall resume the powers
+and duties of his office.
 
 
-The President shall, at stated Times, receive for his Services, a Compensation,
-which shall neither be encreased nor diminished during the Period for which he
-shall have been elected, and he shall not receive within that Period any other
-Emolument from the United States, or any of them.
+**SubSection 4.** The President shall, at stated Times, receive for his
+Services, a Compensation, which shall neither be encreased nor diminished
+during the Period for which he shall have been elected, and he shall not
+receive within that Period any other Emolument from the United States, or any
+of them.
 
 Before he enter on the Execution of his Office, he shall take the following
 Oath or Affirmation:-- "I do solemnly swear (or affirm) that I will faithfully
@@ -384,8 +414,8 @@ execute the Office of President of the United States, and will to the best of
 my Ability, preserve, protect and defend the Constitution of the United
 States."
 
-The District constituting the seat of Government of the United States shall
-appoint in such manner as the Congress may direct:
+**SubSection 5.** The District constituting the seat of Government of the
+United States shall appoint in such manner as the Congress may direct:
 
 A number of electors of President and Vice President equal to the whole number
 of Senators and Representatives in Congress to which the District would be
