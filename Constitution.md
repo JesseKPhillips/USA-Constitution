@@ -244,7 +244,10 @@ in Cases of Rebellion or Invasion the public Safety may require it.
 No Bill of Attainder or ex post facto Law shall be passed.
 
 No Capitation, or other direct, Tax shall be laid, unless in Proportion to the
-Census or Enumeration herein before directed to be taken.
+Census or Enumeration herein before directed to be taken. Congress shall have
+power to lay and collect taxes on incomes, from whatever source derived,
+without apportionment among the several States, and without regard to any
+census or enumeration.
 
 No Tax or Duty shall be laid on Articles exported from any State.
 
