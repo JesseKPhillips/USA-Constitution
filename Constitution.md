@@ -54,7 +54,13 @@ Enumeration shall be made within three Years after the first Meeting of the
 Congress of the United States, and within every subsequent Term of ten Years,
 in such Manner as they shall by Law direct. The Number of Representatives shall
 not exceed one for every thirty Thousand, but each State shall have at Least
-one Representative.
+one Representative, until the number shall amount to one hundred, after which
+the proportion shall be so regulated by Congress, that there shall be not less
+than one hundred Representatives, nor less than one Representative for every
+forty thousand persons, until the number of Representatives shall amount to two
+hundred, after which the proportion shall be so regulated by Congress, that
+there shall not be less than two hundred Representatives, nor more than one
+Representative for every fifty thousand persons.
 
 When vacancies happen in the Representation from any State, the Executive
 Authority thereof shall issue Writs of Election to fill such Vacancies.
