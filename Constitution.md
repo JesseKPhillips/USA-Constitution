@@ -495,6 +495,15 @@ of President; neither shall any Person be eligible to that Office who shall not
 have attained to the Age of thirty five Years, and been fourteen Years a
 Resident within the United States.
 
+No person shall be elected to the office of the President more than twice, and
+no person who has held the office of President, or acted as President, for more
+than two years of a term to which some other person was elected President shall
+be elected to the office of the President more than once. But this article
+shall not apply to any person holding the office of President when this article
+was proposed by the Congress, and shall not prevent any person who may be
+holding the office of President, or acting as President, during the term within
+which this article becomes operative from holding the office of President or
+acting as President during the remainder of such term.
 
 In Case of the Removal of the President from Office, or of his Death,
 Resignation, or Inability to discharge the Powers and Duties of the said
