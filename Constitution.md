@@ -57,18 +57,21 @@ shall have the sole Power of Impeachment.
 
 
 **Section. 3.**  The Senate of the United States shall be composed of two
-Senators from each State, chosen by the Legislature thereof, for six Years; and
-each Senator shall have one Vote.
+Senators from each State, elected by the people thereof, for six years; and
+each Senator shall have one vote. The electors in each State shall have the
+qualifications requisite for electors of the most numerous branch of the State
+legislatures.
 
 Immediately after they shall be assembled in Consequence of the first Election,
 they shall be divided as equally as may be into three Classes. The Seats of the
 Senators of the first Class shall be vacated at the Expiration of the second
 Year, of the second Class at the Expiration of the fourth Year, and of the
 third Class at the Expiration of the sixth Year, so that one third may be
-chosen every second Year; and if Vacancies happen by Resignation, or otherwise,
-during the Recess of the Legislature of any State, the Executive thereof may
-make temporary Appointments until the next Meeting of the Legislature, which
-shall then fill such Vacancies.
+chosen every second Year; and when vacancies happen in the representation of
+any State in the Senate, the executive authority of such State shall issue
+writs of election to fill such vacancies: Provided, That the legislature of any
+State may empower the executive thereof to make temporary appointments until
+the people fill the vacancies by election as the legislature may direct.
 
 No Person shall be a Senator who shall not have attained to the Age of thirty
 Years, and been nine Years a Citizen of the United States, and who shall not,
