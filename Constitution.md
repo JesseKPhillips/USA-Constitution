@@ -727,3 +727,10 @@ done in Convention by the Unanimous Consent of the States present the
 Seventeenth Day of September in the Year of our Lord one thousand seven hundred
 and Eighty seven and of the Independence of the United States of America the
 Twelfth In witness whereof We have hereunto subscribed our Names,
+
+## Article. VIII.
+
+**Section 1.** The manufacture, sale, or transportation of intoxicating liquors
+within, the importation thereof into, or the exportation thereof from the
+United States and all the territory subject to the jurisdiction thereof for
+beverage purposes is hereby prohibited.
