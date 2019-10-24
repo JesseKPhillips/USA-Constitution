@@ -1,0 +1,8 @@
+# See https://editorconfig.org/ for more information.
+
+root = true
+
+[*]
+encoding = utf-8 
+end_of_line = lf
+insert_final_newline = true

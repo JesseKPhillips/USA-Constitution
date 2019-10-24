@@ -1,4 +1,4 @@
-We the people of the States of New Hampshire, Massachussetts, Rhode-Island and
+
 Providence Plantations, Connecticut, New-York, New-Jersey, Pennsylvania,
 Delaware, Maryland, Virginia, North-Carolina, South-Carolina, and Georgia, do
 ordain, declare, and establish the following Constitution for the Government of
@@ -54,7 +54,7 @@ the House of Representatives.
 	shall choose its Speaker and other officers.
 1. Vacancies in the House of Representatives shall be supplied by writs of
 	election from the executive authority of the State in the representation
-from which it shall happen. 
+from which it shall happen.
 
 ## Article. V.
 
@@ -73,7 +73,7 @@ year.
 	shall have been a citizen in the United States for at least four years
 before his election; and shall be, at the time of his election, a resident of
 the State for which he shall be chosen.
-1. The Senate shall chuse its own President and other officers. 
+1. The Senate shall chuse its own President and other officers.
 
 ## Article. VI.
 
@@ -132,7 +132,7 @@ voting for or against the bill shall be entered on the journal of each House
 respectively. If any bill shall not be returned by the President within seven
 days after it shall have been presented to him, it shall be a law, unless the
 legislature, by their adjournment, prevent its return; in which case it shall
-not be a law. 
+not be a law.
 
 ## Article. VII.
 
@@ -177,7 +177,7 @@ importation be prohibited.
 	hereinbefore directed to be taken.
 1. No navigation act shall be passed without the assent of two thirds of the
 	members present in the each House.
-1. The United States shall not grant any title of Nobility. 
+1. The United States shall not grant any title of Nobility.
 
 ## Article. VIII.
 
@@ -229,7 +229,7 @@ to the best of his judgment, without favor, affection, or hope of reward."
 decided or adjusted subsequent to such grants, or any of them, shall, on
 application to the Senate, be finally determined, as near as may be, in the
 same manner as is before prescribed for deciding controversies between
-different States. 
+different States.
 
 ## Article. X.
 
@@ -261,7 +261,7 @@ treason, bribery, or corruption. In case of his removal as aforesaid, death,
 resignation, or disability to discharge the powers and duties of his office,
 the President of the Senate shall exercise those powers and duties, until
 another President of the United States be chosen, or until the disability of
-the President be removed. 
+the President be removed.
 
 ## Article. XI.
 
@@ -294,7 +294,7 @@ constitute from time to time.
 	from office, and disqualification to hold and enjoy any office of honour,
 trust or profit, under the United States. But the party convicted shall,
 nevertheless be liable and subject to indictment, trial, judgment and
-punishment according to law. 
+punishment according to law.
 
 ## Article. XII.
 
