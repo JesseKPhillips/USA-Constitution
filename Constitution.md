@@ -224,6 +224,8 @@ To make Rules for the Government and Regulation of the land and naval Forces;
 To provide for calling forth the Militia to execute the Laws of the Union,
 suppress Insurrections and repel Invasions;
 
+To limit, regulate, and prohibit the labor of persons under eighteen years of age;
+
 To provide for organizing, arming, and disciplining, the Militia, and for
 governing such Part of them as may be employed in the Service of the United
 States, reserving to the States respectively, the Appointment of the Officers,
