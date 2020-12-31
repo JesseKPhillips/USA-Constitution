@@ -81,3 +81,6 @@ correct. For this reason the git history is being rewritten.
 
 As such, rewrites will have their original work preserved on a branch as
 attempt-#
+
+Attempt-2 - [Issue-20](https://github.com/JesseKPhillips/USA-Constitution/issues/20)
+Article I is duplicated caused by https://github.com/JesseKPhillips/USA-Constitution/commit/1e6aa0520e8d7d82c581b0f9aab16d6ebf03638f
