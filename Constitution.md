@@ -54,11 +54,7 @@ Enumeration shall be made within three Years after the first Meeting of the
 Congress of the United States, and within every subsequent Term of ten Years,
 in such Manner as they shall by Law direct. The Number of Representatives shall
 not exceed one for every thirty Thousand, but each State shall have at Least
-one Representative; and until such enumeration shall be made, the State of New
-Hampshire shall be entitled to chuse three, Massachusetts eight, Rhode-Island
-and Providence Plantations one, Connecticut five, New-York six, New Jersey
-four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North
-Carolina five, South Carolina five, and Georgia three.
+one Representative.
 
 When vacancies happen in the Representation from any State, the Executive
 Authority thereof shall issue Writs of Election to fill such Vacancies.
