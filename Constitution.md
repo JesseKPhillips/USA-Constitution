@@ -8,7 +8,9 @@ States of America.
 
 ## Article. I.
 
-**Section. 1.**  All legislative Powers herein granted shall be vested in a
+### Section. 1.
+
+All legislative Powers herein granted shall be vested in a
 Congress of the United States, which shall consist of a Senate and House of
 Representatives. Congress shall make no law respecting an establishment of
 religion, or prohibiting the free exercise thereof; or abridging the freedom of
@@ -29,7 +31,9 @@ The terms of Senators and Representatives shall end at noon on the 3d day of
 January, of the years in which such terms end; and the terms of their
 successors shall then begin.
 
-**Section. 2.**  The House of Representatives shall be composed of Members
+### Section. 2.
+
+The House of Representatives shall be composed of Members
 chosen every second Year by the People of the several States, and the Electors
 in each State shall have the Qualifications requisite for Electors of the most
 numerous Branch of the State Legislature.
@@ -68,7 +72,9 @@ shall have the sole Power of Impeachment.
 
 
 
-**Section. 3.**  The Senate of the United States shall be composed of two
+### Section. 3.
+
+The Senate of the United States shall be composed of two
 Senators from each State, elected by the people thereof, for six years; and
 each Senator shall have one vote. The electors in each State shall have the
 qualifications requisite for electors of the most numerous branch of the State
@@ -109,7 +115,9 @@ Law.
 
 
 
-**Section. 4.** The Times, Places and Manner of holding Elections for Senators
+### Section. 4.
+
+The Times, Places and Manner of holding Elections for Senators
 and Representatives, shall be prescribed in each State by the Legislature
 thereof; but the Congress may at any time by Law make or alter such
 Regulations, except as to the Places of chusing Senators.
@@ -118,7 +126,9 @@ The Congress shall assemble at least once in every year, and such meeting shall
 begin at noon on the 3d day of January, unless they shall by law appoint a
 different day.
 
-**Section. 5.** Each House shall be the Judge of the Elections, Returns and
+### Section. 5.
+
+Each House shall be the Judge of the Elections, Returns and
 Qualifications of its own Members, and a Majority of each shall constitute a
 Quorum to do Business; but a smaller Number may adjourn from day to day, and
 may be authorized to compel the Attendance of absent Members, in such Manner,
@@ -136,7 +146,9 @@ Neither House, during the Session of Congress, shall, without the Consent of
 the other, adjourn for more than three days, nor to any other Place than that
 in which the two Houses shall be sitting.
 
-**Section. 6.** The Senators and Representatives shall receive a Compensation
+### Section. 6.
+
+The Senators and Representatives shall receive a Compensation
 for their Services, to be ascertained by Law, and paid out of the Treasury of
 the United States. They shall in all Cases, except Treason, Felony and Breach
 of the Peace, be privileged from Arrest during their Attendance at the Session
@@ -154,7 +166,9 @@ Representatives, shall take effect, until an election of Representatives shall
 have intervened.
 
 
-**Section. 7.** All Bills for raising Revenue shall originate in the House of
+### Section. 7.
+
+All Bills for raising Revenue shall originate in the House of
 Representatives; but the Senate may propose or concur with Amendments as on
 other Bills.
 
@@ -181,68 +195,72 @@ shall take Effect, shall be approved by him, or being disapproved by him, shall
 be repassed by two thirds of the Senate and House of Representatives, according
 to the Rules and Limitations prescribed in the Case of a Bill.
 
-**Section. 8.** The Congress shall have Power To lay and collect Taxes, Duties,
+### Section. 8.
+
+The Congress shall have Power To lay and collect Taxes, Duties,
 Imposts and Excises, to pay the Debts and provide for the common Defence and
 general Welfare of the United States; but all Duties, Imposts and Excises shall
 be uniform throughout the United States;
 
-To borrow Money on the credit of the United States;
+1. To borrow Money on the credit of the United States;
 
-To regulate Commerce with foreign Nations, and among the several States, and
+2. To regulate Commerce with foreign Nations, and among the several States, and
 with the Indian Tribes;
 
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject
+3. To establish an uniform Rule of Naturalization, and uniform Laws on the subject
 of Bankruptcies throughout the United States;
 
-To coin Money, regulate the Value thereof, and of foreign Coin, and fix the
+4. To coin Money, regulate the Value thereof, and of foreign Coin, and fix the
 Standard of Weights and Measures;
 
-To provide for the Punishment of counterfeiting the Securities and current Coin
+5. To provide for the Punishment of counterfeiting the Securities and current Coin
 of the United States;
 
-To establish Post Offices and post Roads;
+6. To establish Post Offices and post Roads;
 
-To promote the Progress of Science and useful Arts, by securing for limited
+7. To promote the Progress of Science and useful Arts, by securing for limited
 Times to Authors and Inventors the exclusive Right to their respective Writings
 and Discoveries;
 
-To constitute Tribunals inferior to the supreme Court;
+8. To constitute Tribunals inferior to the supreme Court;
 
-To define and punish Piracies and Felonies committed on the high Seas, and
+9. To define and punish Piracies and Felonies committed on the high Seas, and
 Offences against the Law of Nations;
 
-To declare War, grant Letters of Marque and Reprisal, and make Rules concerning
+10. To declare War, grant Letters of Marque and Reprisal, and make Rules concerning
 Captures on Land and Water;
 
-To raise and support Armies, but no Appropriation of Money to that Use shall be
+11. To raise and support Armies, but no Appropriation of Money to that Use shall be
 for a longer Term than two Years;
 
-To provide and maintain a Navy;
+12. To provide and maintain a Navy;
 
-To make Rules for the Government and Regulation of the land and naval Forces;
+13. To make Rules for the Government and Regulation of the land and naval Forces;
 
-To provide for calling forth the Militia to execute the Laws of the Union,
+14. To provide for calling forth the Militia to execute the Laws of the Union,
 suppress Insurrections and repel Invasions;
 
-To provide for organizing, arming, and disciplining, the Militia, and for
+15. To provide for organizing, arming, and disciplining, the Militia, and for
 governing such Part of them as may be employed in the Service of the United
 States, reserving to the States respectively, the Appointment of the Officers,
 and the Authority of training the Militia according to the discipline
 prescribed by Congress;
 
-To exercise exclusive Legislation in all Cases whatsoever, over such District
+16. To exercise exclusive Legislation in all Cases whatsoever, over such District
 (not exceeding ten Miles square) as may, by Cession of particular States, and
 the Acceptance of Congress, become the Seat of the Government of the United
 States, and to exercise like Authority over all Places purchased by the Consent
 of the Legislature of the State in which the Same shall be, for the Erection of
 Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings;—And
 
-To make all Laws which shall be necessary and proper for carrying into
+17. To make all Laws which shall be necessary and proper for carrying into
 Execution the foregoing Powers, and all other Powers vested by this
 Constitution in the Government of the United States, or in any Department or
 Officer thereof.
 
-**Section. 9.** The Migration or Importation of such Persons as any of the
+### Section. 9.
+
+The Migration or Importation of such Persons as any of the
 States now existing shall think proper to admit, shall not be prohibited by the
 Congress prior to the Year one thousand eight hundred and eight, but a Tax or
 duty may be imposed on such Importation, not exceeding ten dollars for each
@@ -280,7 +298,9 @@ President, or for Senator or Representative in Congress, shall not be denied or
 abridged by the United States or any State by reason of failure to pay any poll
 tax or other tax.
 
-**Section. 10.** No State shall enter into any Treaty, Alliance, or
+### Section. 10.
+
+No State shall enter into any Treaty, Alliance, or
 Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of
 Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts;
 pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation
@@ -300,7 +320,9 @@ invaded, or in such imminent Danger as will not admit of delay.
 
 ## Article. II.
 
-**Section. 1.** The executive Power shall be vested in a President of the
+### Section. 1.
+
+The executive Power shall be vested in a President of the
 United States of America. He shall hold his Office during the Term of four
 Years ending at noon on the 20th day of January, and, together with the Vice
 President, chosen for the same Term, be elected, as follows
@@ -311,7 +333,9 @@ to which the State may be entitled in the Congress: but no Senator or
 Representative, or Person holding an Office of Trust or Profit under the United
 States, shall be appointed an Elector.
 
-**SubSection. 1.** The Electors shall meet in their respective states, and vote
+#### SubSection. 1.
+
+The Electors shall meet in their respective states, and vote
 by ballot for President and Vice-President, one of whom, at least, shall not be
 an inhabitant of the same state with themselves; they shall name in their
 ballots the person voted for as President, and in distinct ballots the person
@@ -359,7 +383,9 @@ which they shall give their Votes; which Day shall be the same throughout the
 United States.
 
 
-**SubSection. 2** No Person except a natural born Citizen, or a Citizen of the
+#### SubSection. 2
+
+No Person except a natural born Citizen, or a Citizen of the
 United States, at the time of the Adoption of this Constitution, shall be
 eligible to the Office of President; neither shall any Person be eligible to
 that Office who shall not have attained to the Age of thirty five Years, and
@@ -375,7 +401,9 @@ holding the office of President, or acting as President, during the term within
 which this article becomes operative from holding the office of President or
 acting as President during the remainder of such term.
 
-**SubSection 3.** In case of the removal of the President from office or of his
+#### SubSection 3.
+
+In case of the removal of the President from office or of his
 death or resignation, the Vice President shall become President.
 
 Whenever there is a vacancy in the office of the Vice President, the President
@@ -413,7 +441,9 @@ the same as Acting President; otherwise, the President shall resume the powers
 and duties of his office.
 
 
-**SubSection 4.** The President shall, at stated Times, receive for his
+#### SubSection 4.
+
+The President shall, at stated Times, receive for his
 Services, a Compensation, which shall neither be encreased nor diminished
 during the Period for which he shall have been elected, and he shall not
 receive within that Period any other Emolument from the United States, or any
@@ -425,7 +455,9 @@ execute the Office of President of the United States, and will to the best of
 my Ability, preserve, protect and defend the Constitution of the United
 States."
 
-**SubSection 5.** The District constituting the seat of Government of the
+#### SubSection 5.
+
+The District constituting the seat of Government of the
 United States shall appoint in such manner as the Congress may direct:
 
 A number of electors of President and Vice President equal to the whole number
@@ -437,7 +469,9 @@ President, to be electors appointed by a State; and they shall meet in the
 District and perform such duties as provided by this article of the
 Constitution.
 
-**Section. 2.** The President shall be Commander in Chief of the Army and Navy
+### Section. 2.
+
+The President shall be Commander in Chief of the Army and Navy
 of the United States, and of the Militia of the several States, when called
 into the actual Service of the United States; he may require the Opinion, in
 writing, of the principal Officer in each of the executive Departments, upon
@@ -463,7 +497,9 @@ No soldier shall, in time of peace be quartered in any house, without the
 consent of the owner, nor in time of war, but in a manner to be prescribed by
 law.
 
-**Section. 3.**  He shall from time to time give to the Congress Information of
+### Section. 3.
+
+He shall from time to time give to the Congress Information of
 the State of the Union, and recommend to their Consideration such Measures as
 he shall judge necessary and expedient; he may, on extraordinary Occasions,
 convene both Houses, or either of them, and in Case of Disagreement between
@@ -472,20 +508,26 @@ as he shall think proper; he shall receive Ambassadors and other public
 Ministers; he shall take Care that the Laws be faithfully executed, and shall
 Commission all the Officers of the United States.
 
-**Section. 4.**  The President, Vice President and all civil Officers of the
+### Section. 4.
+
+The President, Vice President and all civil Officers of the
 United States, shall be removed from Office on Impeachment for, and Conviction
 of, Treason, Bribery, or other high Crimes and Misdemeanors.
 
 ## Article. III.
 
-**Section. 1.**  The judicial Power of the United States, shall be vested in
+### Section. 1.
+
+The judicial Power of the United States, shall be vested in
 one supreme Court, and in such inferior Courts as the Congress may from time to
 time ordain and establish. The Judges, both of the supreme and inferior Courts,
 shall hold their Offices during good Behaviour, and shall, at stated Times,
 receive for their Services, a Compensation, which shall not be diminished
 during their Continuance in Office.
 
-**Section. 2.** The judicial Power shall extend to all Cases, in Law and
+### Section. 2.
+
+The judicial Power shall extend to all Cases, in Law and
 Equity, arising under this Constitution, the Laws of the United States, and
 Treaties made, or which shall be made, under their Authority;—to all Cases
 affecting Ambassadors, other public Ministers and Consuls;—to all Cases of
@@ -506,7 +548,9 @@ such Trial shall be held in the State where the said Crimes shall have been
 committed; but when not committed within any State, the Trial shall be at such
 Place or Places as the Congress may by Law have directed.
 
-**Section. 3.** Treason against the United States, shall consist only in
+### Section. 3.
+
+Treason against the United States, shall consist only in
 levying War against them, or in adhering to their Enemies, giving them Aid and
 Comfort. No Person shall be convicted of Treason unless on the Testimony of two
 Witnesses to the same overt Act, or on Confession in open Court.
@@ -515,7 +559,9 @@ The Congress shall have Power to declare the Punishment of Treason, but no
 Attainder of Treason shall work Corruption of Blood, or Forfeiture except
 during the Life of the Person attainted.
 
-**Section. 4.** The right of the people to be secure in their persons, houses,
+### Section. 4.
+
+The right of the people to be secure in their persons, houses,
 papers, and effects, against unreasonable searches and seizures, shall not be
 violated, and no warrants shall issue, but upon probable cause, supported by
 oath or affirmation, and particularly describing the place to be searched, and
@@ -548,12 +594,16 @@ and unusual punishments inflicted.
 
 ## Article. IV.
 
-**Section. 1.**  Full Faith and Credit shall be given in each State to the
+### Section. 1.
+
+Full Faith and Credit shall be given in each State to the
 public Acts, Records, and judicial Proceedings of every other State. And the
 Congress may by general Laws prescribe the Manner in which such Acts, Records
 and Proceedings shall be proved, and the Effect thereof.
 
-**Section. 2.** All persons born or naturalized in the United States, and
+### Section. 2.
+
+All persons born or naturalized in the United States, and
 subject to the jurisdiction thereof, are citizens of the United States and of
 the State wherein they reside. No State shall make or enforce any law which
 shall abridge the privileges or immunities of citizens of the United States;
@@ -578,7 +628,9 @@ in Consequence of any Law or Regulation therein, be discharged from such
 Service or Labour, but shall be delivered up on Claim of the Party to whom such
 Service or Labour may be due.
 
-**Section. 3.** New States may be admitted by the Congress into this Union; but
+### Section. 3.
+
+New States may be admitted by the Congress into this Union; but
 no new State shall be formed or erected within the Jurisdiction of any other
 State; nor any State be formed by the Junction of two or more States, or Parts
 of States, without the Consent of the Legislatures of the States concerned as
@@ -589,12 +641,16 @@ Regulations respecting the Territory or other Property belonging to the United
 States; and nothing in this Constitution shall be so construed as to Prejudice
 any Claims of the United States, or of any particular State.
 
-**Section. 4.**  The United States shall guarantee to every State in this Union
+### Section. 4.
+
+The United States shall guarantee to every State in this Union
 a Republican Form of Government, and shall protect each of them against
 Invasion; and on Application of the Legislature, or of the Executive (when the
 Legislature cannot be convened) against domestic Violence.
 
-**Section. 5.** The validity of the public debt of the United States,
+### Section. 5.
+
+The validity of the public debt of the United States,
 authorized by law, including debts incurred for payment of pensions and
 bounties for services in suppressing insurrection or rebellion, shall not be
 questioned. But neither the United States nor any State shall assume or pay any
@@ -638,7 +694,9 @@ States.
 A well regulated militia, being necessary to the security of a free state, the
 right of the people to keep and bear arms, shall not be infringed.
 
-**Section. 1** The enumeration in the Constitution, of certain rights, shall
+### Section. 1.
+
+The enumeration in the Constitution, of certain rights, shall
 not be construed to deny or disparage others retained by the people.
 
 The powers not delegated to the United States by the Constitution, nor
@@ -665,6 +723,8 @@ Twelfth In witness whereof We have hereunto subscribed our Names,
 
 ## Article. VIII.
 
-**Section 1.** The transportation or importation into any State, Territory, or
+### Section 1.
+
+The transportation or importation into any State, Territory, or
 possession of the United States for delivery or use therein of intoxicating
 liquors, in violation of the laws thereof, is hereby prohibited.
